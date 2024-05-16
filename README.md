@@ -10,7 +10,6 @@ This Jupyter Notebook combines the scrapers for Ledger Insights and Blockworks, 
 ### 2. `config.json`
 This JSON file contains configuration parameters used by the scraper scripts. It includes paths, URLs, keywords, and other settings necessary for running the scrapers.
 
-```json
 {
     "webdriver_path": "C:/Program Files/chromedriver-win64/chromedriver.exe",
     "ledger_insights_url": "https://www.ledgerinsights.com/tokenization/",
