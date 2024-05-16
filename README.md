@@ -42,7 +42,6 @@ To run the scrapers, you will need the following:
 
 ### Clone the Repository:
 
-```sh
 git clone https://github.com/suni639/article_web_scraper_v2
 cd article_scraper
 
