@@ -1,0 +1,10 @@
+{
+    "webdriver_path": "C:/Program Files/chromedriver-win64/chromedriver.exe",
+    "ledger_insights_url": "https://www.ledgerinsights.com/tokenization/",
+    "blockworks_url": "https://blockworks.co/search",
+    "keywords": ["digital assets", "digital securities", "tokenized", "tokenization", "bond", "security", "asset", "token"],
+    "searchword": "tokeniz",
+    "num_clicks_li": 20,
+    "num_clicks_bw": 20,
+    "csv_file_path": "scraped_articles.csv"
+}
